@@ -1,0 +1,43 @@
+
+img{
+    width: 25%;
+    padding: 10px;
+}
+
+nav ul{
+    
+    list-style-type:none;
+    padding: 2%;
+    margin: 1%;
+
+}
+ 
+li a{
+    text-decoration: none;
+    
+}
+
+nav li{
+    display: inline;
+    margin-right: 30%;
+    padding: 5px;
+    
+}
+nav{
+    background-color: rgb(211, 90, 20);
+    padding : 10px;
+    
+}
+nav li:hover{
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    box-sizing: border-box;
+    
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: rgb(211, 90, 20);
+    
+}
